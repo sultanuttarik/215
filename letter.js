@@ -22,5 +22,5 @@ window.LETTER_CONFIG = {
   ],
   signoff: "With care,",
   signature: "Dr Stephen Strange",
-  typingSpeed: 14
+  typingSpeed: 55
 };
